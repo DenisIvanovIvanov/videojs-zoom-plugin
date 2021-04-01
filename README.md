@@ -26,6 +26,6 @@ Much more can be done, but it is out of my scope for now, e.g.
 3. **There is no null check if framerate is null**
 4. Canvas size
 5. Canvas border color, preview rectangle color etc.
-6. Refactor the code
-7. You tell me
+6. Refactor the plugin as class extending videojs **Plugin** so **dispose()** doesn't have to be called manually
+7. ??
 
