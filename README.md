@@ -20,3 +20,12 @@ videojs(videoId, {
 
 and thats pretty much it.
 
+Much more can be done, but it is out of my scope for now, e.g.
+1. Option to specify where to place canvas
+2. Refactor creation of the buttons
+3. **There is no null check if framerate is null**
+4. Canvas size
+5. Canvas border color, preview rectangle color etc.
+6. Refactor the code
+7. You tell me
+
